@@ -10,3 +10,21 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+.Grande div {
+
+display: inline-block ;
+font-size: 100px;
+line-height:100px;
+
+background: #150C0B;
+color: white;
+padding: 10px;
+margin: 5px;
+}
+.Grande {
+
+
+
+text-align:center;
+background: black;
+}
